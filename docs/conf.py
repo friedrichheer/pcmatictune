@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'PC Matic Tune'
+project = 'pccmatic'
 copyright = '2025'
-author = 'Johann Hebel'
+author = 'Christoph Ransmayr'
 
 release = '1.0'
 
